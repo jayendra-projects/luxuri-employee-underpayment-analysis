@@ -31,9 +31,6 @@ and subcontractors.
 Microsoft Excel (pivot tables, formula-based reconciliation), data cleansing, root-cause
 analysis
 
-## Files
-- `Luxuri_Underpayment_Executive_Summary.docx` - client-facing summary
-- `Task3_Labour_Type_Summary.xlsx` - supporting breakdown
-- (Note: raw client dataset omitted - simulated exercise data, not for redistribution)
+
 
 
